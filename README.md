@@ -1,4 +1,4 @@
-# PRODI GY_ML_02 – Customer Segmentation Using K-Means
+# PRODIGY_ML_02 – Customer Segmentation Using K-Means
 
 This project is my submission for **Task 02** of the **Prodigy InfoTech Machine Learning Internship**.
 
