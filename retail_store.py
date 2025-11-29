@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
 # 1. Load the dataset
-df = pd.read_csv(r"C:\Users\Deepika\Downloads\Mall_Customers.csv")
+df = pd.read_csv(r" ")
 
 # 2. Check columns and preview data
 print(df.columns.tolist())
@@ -64,3 +64,4 @@ plt.show()
 # 8. Save the output
 df.to_csv(r"C:\Users\Deepika\Downloads\Mall_Customers_Clustered.csv", index=False)
 print("Saved as Mall_Customers_Clustered.csv")
+
